@@ -1,3 +1,5 @@
 - [Baguette](./baguette/)
 - [Ideas](./ideas/)
 - [Fried Rice](./friedRice/)
+- [Brasato al Barolo](./brasato/)
+- [Lasagna](./lasagna/)
