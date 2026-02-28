@@ -6,11 +6,13 @@
 - 1/4 spoon of yeast
     
  ## Dough:
-    - 319g warm water
-    - 519g all-purpose flour
-    - 15g salt
-    - 1/2 teaspoon of yeast
- 
+- 319g warm water
+- 519g all-purpose flour
+- 15g salt
+- 1/2 teaspoon of yeast
+
+# Cooking
+
  ## Day before
   - Combine the flour, yeast, and water.
   - Cover and let it rest overnight at room temperature, 12 to 16 hours.
@@ -36,6 +38,5 @@
   - Invert the loaves side by side onto a sheet of parchment.
   - Score the tops of the loaves.
   - Load the loaves (still on the parchment) into the oven.
-  
-    -- It is crucial to plan the water in the oven in advance.
+    - It is crucial to plan the water in the oven in advance.
   - Bake the loaves for 32 to 38 minutes, until the crust is firm and medium golden brown.
