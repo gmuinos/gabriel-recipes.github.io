@@ -1,6 +1,6 @@
 # Lasagna
 
-This dish is based on [https://youtu.be/xIQXLTFup6M](this video) with the recipe of Mile Zero Kitchen.
+This dish is based on [this video](https://youtu.be/xIQXLTFup6M) with the recipe of Mile Zero Kitchen.
 
 ## Ingredients
 
