@@ -1,4 +1,4 @@
-- [Fried Rice](./friedRice/)
+- [Fried Rice](./recipes/friedRice/)
 - [Brasato al Barolo](./brasato/)
 - [Lasagna](./lasagna/)
 - [Baguette](./baguette/)
