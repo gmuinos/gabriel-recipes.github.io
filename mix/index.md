@@ -25,30 +25,6 @@
         \item Mix everything and serve with ice.
     \end{enumerate}
 
-\subsection{Tortilla de Papas}
-\paragraph{Ingredient list}
-    \begin{itemize}
-        \item 60\% potatoes
-        \item 40\% onions
-        \item Eggs
-        \item Olive oil
-        \item Salt
-    \end{itemize}
-\paragraph{Cooking Steps}
-    \begin{enumerate}
-        \item Cut potatoes in irregular pieces.
-        \item Fry the potatoes.
-        \item Chop the onions.
-        \item Add the onions to the frying pan.
-        \item Whip the eggs.
-        \item Add salt to the eggs.
-        \item When potatoes and onions have browned enough, drain them with a sieve and add them to the eggs. Wait a couple of minutes.
-        \item Warm up a skillet and add a bit of oil.
-        \item Add the raw tortilla and wait for 30 seconds.
-        \item Turn it and wait for 30 seconds.
-        \item Turn it again, wait for 10 second, and serve.
-    \end{enumerate}
-
 
 
 
@@ -105,7 +81,7 @@ Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
 
 
 
-Add sauce liquid to the corn starch instead of cold water
+
 
 
 Blanche vegetables, and save them for the week and eat them as is or steam them in a skillet.
