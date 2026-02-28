@@ -1,45 +1,37 @@
+# Lasagna
+
 This dish is based on \href{https://youtu.be/xIQXLTFup6M}{this video} with the recipe of Mile Zero Kitchen.
 
-\section*{\underline{Ingredients for the Ragù}}
-\begin{multicols}{3}
-\begin{itemize}
-    \item 500g ground beef
-    \item 250g ground pork
-    \item 200g pancetta
-    \item 2 celery stalks
-    \item 2 carrots
-    \item 1 onion
-    \item 1 garlic clove
-    \item 2 bay leaves
-    \item 200ml white wine
-    \item 2tbsp tomato paste
-    \item 500ml whole milk
-    \item Parmigiano Rind
-\end{itemize}
-\end{multicols}
-    
-    
-\section*{\underline{Ingredients for the Bechamel}}
-\begin{multicols}{3}
-\begin{itemize}
-    \item 100g butter
-    \item 100g flour
-    \item 1000g whole milk
-    \item 50g parmigiano
-    \item Salt and pepper
-    \item Nutmeg
-\end{itemize}
-\end{multicols}
+## Ingredients for the Ragù
+- 500g ground beef
+- 250g ground pork
+- 200g pancetta
+- 2 celery stalks
+- 2 carrots
+- 1 onion
+- 1 garlic clove
+- 2 bay leaves
+- 200ml white wine
+- 2tbsp tomato paste
+- 500ml whole milk
+- Parmigiano Rind
+
+## Ingredients for the Bechamel
+- 100g butter
+- 100g flour
+- 1000g whole milk
+- 50g parmigiano
+- Salt and pepper
+- Nutmeg
+
 More Parmigiano will also be needed for the assembly.
 
-\section{Milk}
-\begin{enumerate}
-    \item Boil the 1.5 liters of milk.
-    \item Discard the cream of the milk.
-    \item Let the milk rest.
-\end{enumerate}
+## Milk
+- Boil the 1.5 liters of milk.
+- Discard the cream of the milk.
+- Let the milk rest.
 
-\section{Ragù}
+## Ragù
 \begin{enumerate}
     \item Prepare two skillets.
     \item Chop
