@@ -8,39 +8,21 @@ More dishes:
 - Lemon Butter Chicken
 - Frittata
 - Paella
-- Espresso Tonic
 - Chicken Soup
 - Churros de Pescado
 - Nasi Goreng
-- Tortilla de Papas
 - Mojo Rojo
 - Mojo Verde
 - Papas Arrugadas
 - Crunchy Roasted Potatoes
 - The Bee's Knees
-- Black Velvet
 - Crunchy Cesar Salad
 - Pearl Couscous Fish
 - Rosquetes
 - Lemon Butter
 - Mussels
-- Glühwein
 - Panuozzo 
 - Potaje de verduras, de lentejas, rancho, arroz,...
-
-\section{Drinks}
-
-\subsection{Black Velvet}
-\paragraph{Ingredient list}
-    \begin{itemize}
-        \item Stout
-        \item Sparkling white wine
-    \end{itemize}
-\paragraph{Cooking Steps}
-    \begin{enumerate}
-        \item Chill both drinks
-        \item Mix equal amounts of both drinks
-    \end{enumerate}
 
 \subsection{The Bee's Knees}
 \paragraph{Ingredient list}
@@ -76,8 +58,6 @@ Stout 233g
 
 
 
-
-
 Almond crusted chicken schnitzel
 
 Traditionally, schnitzels are coated in crisp breadcrumbs, but this delicious version using almonds and cornflour makes this nuttily delicious and suitable for anyone avoiding gluten.
@@ -110,14 +90,5 @@ Wine sauce: caramelized onions, thyme and rosemary, wine, black garlic, beef sto
 Gravy: onion, carrot, celery, garlic, thyme, beer, chicken stock.
 
 
-
-
-
-
-Blanche vegetables, and save them for the week and eat them as is or steam them in a skillet.
 Unique beer styles: Smoked German, Oud Bruin, Brett, Braggot, Freezed-distilled 
-
-
-
-
 
