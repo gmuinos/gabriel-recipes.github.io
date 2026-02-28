@@ -1,6 +1,6 @@
 # Lasagna
 
-This dish is based on \href{https://youtu.be/xIQXLTFup6M}{this video} with the recipe of Mile Zero Kitchen.
+This dish is based on [https://youtu.be/xIQXLTFup6M](this video) with the recipe of Mile Zero Kitchen.
 
 ## Ingredients
 
@@ -28,7 +28,7 @@ This dish is based on \href{https://youtu.be/xIQXLTFup6M}{this video} with the r
 
 More Parmigiano will also be needed for the assembly.
 
-## Instruction
+## Instructions
 
 ### Milk
 - Boil the 1.5 liters of milk.
@@ -53,36 +53,30 @@ More Parmigiano will also be needed for the assembly.
 - Add 0.5 liters of milk bu only what is needed.
 - Simmer for at least four hours.
 
+### Bechamel
+- Make a roux with the butter and the flour.
+- Add milk slowly.
+- Let it simmer for ten minutes.
+- Add the Parmigiano.
+- Add salt, pepper, and nutmeg.
+- Cover the bechamel with plastic wrap so it does not dry out.
 
-\section{Bechamel}
-\begin{enumerate}
-    \item Make a roux with the butter and the flour.
-    \item Add milk slowly.
-    \item Let it simmer for ten minutes.
-    \item Add the Parmigiano.
-    \item Add salt, pepper, and nutmeg.
-    \item Cover the bechamel with plastic wrap so it does not dry out.
-\end{enumerate}
 
-\section{Pasta}
+### Pasta
 Cook the pasta following the package instructions.
 
-\section{Assembly}
-\begin{enumerate}
-    \item Check the salt levels.
-    \item Add some bechamel to the ragù so it regains some moisture.
-    \item Grate Parmigiano.
-    \item Follow the layers:
-    \begin{enumerate}
-        \item Ragù 
-        \item Pasta
-        \item Ragù
-        \item Bechamel
-        \item Grated Parmigiano
-        \item Start again
-    \end{enumerate}
-    \item Finish with ragù, bechamel, and Parmigiano.
-\end{enumerate}
+## Assembly
+- Check the salt levels.
+- Add some bechamel to the ragù so it regains some moisture.
+- Grate Parmigiano.
+- Follow the layers:
+    1. Ragù
+    2. Pasta
+    3. Ragù
+    4. Bechamel
+    5. Grated Parmigiano
+    6. Start again
+- Finish with ragù, bechamel, and Parmigiano.
 
-\section{Oven}
+## Oven
 Bake in the oven for 30 minutes at 185°C with the convection function.
