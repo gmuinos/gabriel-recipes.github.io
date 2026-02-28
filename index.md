@@ -1,4 +1,2 @@
-- [Pancakes](./pancakes/)
 - [Baguette](./baguette/)
-- [Pizza](./pizza/)
 - [Ideas](./ideas/)
