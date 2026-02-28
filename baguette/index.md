@@ -11,8 +11,6 @@
 - 15g salt
 - 1/2 teaspoon of yeast
 
-# Cooking
-
  ## Day before
   - Combine the flour, yeast, and water.
   - Cover and let it rest overnight at room temperature, 12 to 16 hours.
