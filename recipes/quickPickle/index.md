@@ -12,7 +12,7 @@
 - Chop the vegetables
 - In a sauce pan add the following in this proportion
 
-| Ingredient      | Relative amount[^1] |
+| Ingredient      | Relative amounts by weight|
 | ----------- | ----------- |
 | Vinegar      | 100%       |
 | Water   | 50%        |
@@ -21,5 +21,3 @@
 
 - Once it is boiling, stop the heat and add all the vegetables with the optional addition of the aromatics.
 - Chill in the refrigerator for a few hours.
-
-[^1]: All the ratios are by weight, not volumen.
