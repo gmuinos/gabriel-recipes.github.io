@@ -1,3 +1,33 @@
+More dishes:
+- Schnitzel
+- Ensaladilla rusa.
+- modernhoney.com/chinese-orange-chicken
+- Black garlic puree.
+- Oeufs en cocotte: eggs with cammebert, chives, spinach, cream cheese, and foccaccia stiks with tomato jam.
+- Zarrangollo
+- Lemon Butter Chicken
+- Frittata
+- Paella
+- Espresso Tonic
+- Chicken Soup
+- Churros de Pescado
+- Nasi Goreng
+- Tortilla de Papas
+- Mojo Rojo
+- Mojo Verde
+- Papas Arrugadas
+- Crunchy Roasted Potatoes
+- The Bee's Knees
+- Black Velvet
+- Crunchy Cesar Salad
+- Pearl Couscous Fish
+- Rosquetes
+- Lemon Butter
+- Mussels
+- Glühwein
+- Panuozzo 
+- Potaje de verduras, de lentejas, rancho, arroz,...
+
 \section{Drinks}
 
 \subsection{Black Velvet}
