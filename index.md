@@ -8,6 +8,7 @@
 - [Baguette](./recipes/baguette/)
 
 # Drinks
+- [Glühwein](./recipes/glühwein/)
 - [Black Velvet](./recipes/blackVelvet/)
 
 # [Ideas I want to remember](./recipes/ideas/)
