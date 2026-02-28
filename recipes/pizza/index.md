@@ -4,6 +4,7 @@
 
 ### Dough ingredients
 For two pizzas of 250 grams each at 75% hydration:
+
 |Ingredient|Amount|
 |-|:-:|
 |Water|207 gr|
