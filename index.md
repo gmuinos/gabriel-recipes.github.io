@@ -7,5 +7,8 @@
 # Side dishes
 - [Baguette](./recipes/baguette/)
 
+# Drinks
+- [Black Velvet](./recipes/blackVelvet/)
+
 # [Ideas I want to remember](./recipes/ideas/)
 
