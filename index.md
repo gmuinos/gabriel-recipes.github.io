@@ -3,6 +3,7 @@
 - [Brasato al Barolo](./recipes/brasato/)
 - [Lasagna](./recipes/lasagna/)
 - [Potato Omelette](./recipes/potatoOmelette/)
+- [Neapolitan Pizza](./recipes/pizza/) 
 
 # Side dishes
 - [Oven-roasted Potatoes](./recipes/roastedPotatoes/)
