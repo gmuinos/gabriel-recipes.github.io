@@ -3,4 +3,4 @@
 - [Lasagna](./lasagna/)
 - [Baguette](./baguette/)
 - [Ideas](./ideas/)
-- [Some](./recipes/qwer/)
+- [Sasdf](./recipes/fry/)
