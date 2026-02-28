@@ -1,10 +1,11 @@
-  Preferment:\
-  - 222g all-purpose flour
-  - 222g cold water
-  -
-  - 1/4 spoon of yeast
+ # Ingredients
+ 
+ ## Preferment:
+- 222g all-purpose flour
+- 222g cold water
+- 1/4 spoon of yeast
     
-  Dough:
+ ## Dough:
     - 319g warm water
     - 519g all-purpose flour
     - 15g salt
