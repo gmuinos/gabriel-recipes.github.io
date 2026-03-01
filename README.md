@@ -1,5 +1,5 @@
 
-# Recipes to Have Around
+# Recipes to Keep Around
 This repository is the set of recipes and formating information for the [gmuinos.github.io](https://gmuinos.github.io/) site.
 
 # Usage
