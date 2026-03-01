@@ -1,15 +1,10 @@
 More dishes:
 - Schnitzel
-- [Oven-roasted chicken](https://youtu.be/0Mss7hxdqvQ)
 - Ensaladilla rusa
-- [Meatballs](https://www.seriouseats.com/italian-american-beef-pork-meatballs-red-tomato-sauce-recipe)
 - modernhoney.com/chinese-orange-chicken
 - Black garlic puree.
 - Oeufs en cocotte: eggs with cammebert, chives, spinach, cream cheese, and foccaccia stiks with tomato jam.
 - Zarrangollo
-- [Lemon Butter Chicken](https://www.cookingclassy.com/lemon-butter-chicken/)
-- [Frittata](https://youtu.be/-q8czZSQbbQ)
-- [Paella](https://www.youtube.com/watch?v=WfYjmrH9gSw&t=1s&pp=ygUOcmFndXNlYSBwYWVsbGE%3D)
 - Chicken Soup
 - Churros de Pescado
 - Nasi Goreng
@@ -18,12 +13,10 @@ More dishes:
 - Papas Arrugadas
 - Crunchy Roasted Potatoes
 - The Bee's Knees
-- [Crunchy Cesar Salad](https://www.boerschappen.nl/recepten/Caesar-salade/)
 - Pearl Couscous Fish
 - Rosquetes
 - Mussels
 - Panuozzo
-- [Pandoro](https://www.daringgourmet.com/pandoro-recipe/)
 - Potaje de verduras, de lentejas, rancho, arroz,...
 
 Candeal flour
