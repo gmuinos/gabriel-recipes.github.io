@@ -1,12 +1,13 @@
 More dishes:
 - Schnitzel
+- [Oven-roasted chicken](https://youtu.be/0Mss7hxdqvQ)
 - Ensaladilla rusa.
 - modernhoney.com/chinese-orange-chicken
 - Black garlic puree.
 - Oeufs en cocotte: eggs with cammebert, chives, spinach, cream cheese, and foccaccia stiks with tomato jam.
 - Zarrangollo
-- Lemon Butter Chicken
-- Frittata
+- [Lemon Butter Chicken](https://www.cookingclassy.com/lemon-butter-chicken/)
+- [Frittata](https://youtu.be/-q8czZSQbbQ)
 - Paella
 - Chicken Soup
 - Churros de Pescado
@@ -19,9 +20,9 @@ More dishes:
 - Crunchy Cesar Salad
 - Pearl Couscous Fish
 - Rosquetes
-- Lemon Butter
 - Mussels
-- Panuozzo 
+- Panuozzo
+- [Pandoro](https://www.daringgourmet.com/pandoro-recipe/)
 - Potaje de verduras, de lentejas, rancho, arroz,...
 
 Candeal flour
